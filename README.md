@@ -25,14 +25,18 @@ This is a Kotlin-based Android app that allows users to participate in live bidd
 
 ## Demo
 
-- APK file of this app is available [here](https://github.com/shivam-sharma-2000/ASAR-Bidding-App/raw/main/ASAR-Bidding-APP.apk)
-- A screen recording of the app in action is included [here](https://github.com/shivam-sharma-2000/ASAR-Bidding-App/blob/main/ASAR-App-Recording.mp4).
+APK file of this app is available [here](https://github.com/shivam-sharma-2000/ASAR-Bidding-App/raw/main/ASAR-Bidding-APP.apk)
 
 ## Screen Recording
 
 A screen recording of the app in action is available below:
 
-![App Screen Recording](https://github.com/shivam-sharma-2000/ASAR-Bidding-App/blob/main/ASAR-App-Recording.mp4)
+<video width="320" height="240" controls>
+  <source src="https://github.com/shivam-sharma-2000/ASAR-Bidding-App/blob/main/ASAR-App-Recording.mp4" type="video/mp4">
+</video>
+
+Alternatively, you can watch the full video [here](https://github.com/shivam-sharma-2000/ASAR-Bidding-App/blob/main/ASAR-App-Recording.mp4).
+
 
 ## Contributing
 
