@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="my_light_primary">#FFFFFF</color>
+<!--    <color name="my_light_primary">#3700B3</color>-->
+<!--    <color name="colorAccent">#03DAC5</color>-->
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="lightGray">#D3D3D3</color>
+    <color name="red">#FF0000</color>
+    <color name="green">#06C270</color>
+    <color name="blue">#0000FF</color>
+    <color name="customPurple">#9C27B0</color>
+    <color name="customYellow">#FFEB3B</color>
+    <color name="transparent">#00FFFFFF</color>
+</resources>

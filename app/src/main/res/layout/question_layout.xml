@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        android:id="@+id/question_card"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@drawable/round_black_border"
+    android:layout_marginBottom="10dp"
+    android:layout_marginStart="10dp"
+    android:layout_marginEnd="10dp"
+    >
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="15dp"
+        >
+
+        
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_weight="6">
+
+            <TextView
+                android:id="@+id/question_header"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Kolkata to win the match vs Mumbai?"
+                android:textColor="@color/white"
+                android:textSize="18dp"
+                android:textStyle="bold"
+                />
+
+            <View
+                android:layout_width="wrap_content"
+                android:layout_height="10dp"/>
+
+            <TextView
+                android:id="@+id/question_sub_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="H2H Last 5 T20 : Kolkata 1, DRAW 0"
+                android:textColor="@color/white"
+                android:textSize="15dp"
+                />
+        </LinearLayout>
+
+
+        <ImageView
+            android:id="@+id/question_image"
+            android:layout_width="0dp"
+            android:layout_height="50dp"
+            android:layout_weight="1"
+            android:layout_gravity="center"
+            />
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:paddingBottom="10dp"
+        >
+
+        <Button
+            android:id="@+id/question_yes"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:text="Yes"
+            android:textColor="@color/white"
+            android:backgroundTint="@color/blue"
+            android:layout_height="50dp"/>
+
+        <Button
+            android:id="@+id/question_no"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:text="No"
+            android:textColor="@color/white"
+            android:backgroundTint="@color/green"
+            android:layout_height="50dp"/>
+    </LinearLayout>
+
+</LinearLayout>
