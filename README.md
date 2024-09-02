@@ -35,6 +35,8 @@ A screen recording of the app in action is available below:
   <source src="https://github.com/shivam-sharma-2000/ASAR-Bidding-App/blob/main/ASAR-App-Recording.mp4" type="video/mp4">
 </video>
 
+https://github.com/shivam-sharma-2000/ASAR-Bidding-App/blob/main/ASAR-App-Recording.mp4
+
 Alternatively, you can watch the full video [here](https://github.com/shivam-sharma-2000/ASAR-Bidding-App/blob/main/ASAR-App-Recording.mp4).
 
 
