@@ -29,16 +29,7 @@ APK file of this app is available [here](https://github.com/shivam-sharma-2000/A
 
 ## Screen Recording
 
-A screen recording of the app in action is available below:
-
-<video width="320" height="240" controls>
-  <source src="https://github.com/shivam-sharma-2000/ASAR-Bidding-App/blob/main/ASAR-App-Recording.mp4" type="video/mp4">
-</video>
-
-https://github.com/shivam-sharma-2000/ASAR-Bidding-App/blob/main/ASAR-App-Recording.mp4
-
-Alternatively, you can watch the full video [here](https://github.com/shivam-sharma-2000/ASAR-Bidding-App/blob/main/ASAR-App-Recording.mp4).
-
+A screen recording of the app in action is included [here](https://github.com/shivam-sharma-2000/ASAR-Bidding-App/blob/main/ASAR-App-Recording.mp4).
 
 ## Contributing
 
